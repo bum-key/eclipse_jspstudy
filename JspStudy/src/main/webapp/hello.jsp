@@ -13,5 +13,6 @@
 	System.out.println("str=>" + str);//콘솔
 	//document.write("str=>"+str)
 	%>
+<%=str %>
 </body>
 </html>
