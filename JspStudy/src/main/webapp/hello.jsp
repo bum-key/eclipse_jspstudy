@@ -15,6 +15,6 @@
 	//out.println("<h1>" + str + "</h1>");//
 	//document.write("str=>"+str)
 	%>
-
+<%=str %>
 </body>
 </html>
